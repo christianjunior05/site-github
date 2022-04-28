@@ -1,0 +1,152 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: "lora", serif; 
+
+}
+.header{
+    background: #1fab3f;
+}
+.navbar{
+    padding-top: 10px!important;
+}
+.nav-item{
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+
+.nav-link
+{
+    color: #fff!important;
+    font-size: 25px!important;
+    padding: 0 0 5px 0!important;
+    display: unset;
+}
+.navbar-brand img{
+    width: 115px;
+}
+.navbar-toggler{
+    border: 0!important;
+    outline: none!important;
+    padding: initial!important;
+}
+.active-home{
+    border-bottom: 2px solid white;
+}
+.nav-link:hover{
+    border-bottom: 2px solid white;
+} 
+.banner{
+
+    margin-top: 8%;
+    color: white                                                                                                                     ;
+                                                
+}
+.banner h1  {
+    margin: 80px 0 50px;
+    font-weight: 600;
+    font-size: 50px;
+}
+.banner img{
+    max-height: 500px;
+}
+.banner a{
+    padding: 12px;
+    width: 150px;
+    display: inline-block;
+    background: #21364e;
+    text-decoration: none!important;
+    color: #fff;
+    border: 2px solid white;
+    border-radius: 5px;
+    text-align: center;
+    margin-top :30px; 
+    font-weight: bold;
+    font-size: 14px;
+
+
+}
+
+.banner a:hover{
+    color: #fff;
+}
+.express-btn{
+    background: rgb(0, 0, 0)!important;
+    color: rgb(255, 255, 255);
+    margin-right:  5px;
+}
+.container{
+ text-align: center;
+
+}
+.row{
+    display: flex;
+    text-align: center;
+    margin-left: 25px;
+}
+.ssubtitle{
+   
+    font-size: 52px;
+
+}
+#contact{
+    padding: 60px 0 ;
+    text-align: center;
+}
+#contact h3{
+    width: 400px;
+    text-transform: uppercase;
+    margin-bottom:0 auto  20px auto;
+    border-bottom: 1px solid #113c8e;
+    padding-bottom: 20px;
+}
+.new{
+    margin-left: 580px;
+}
+form{
+    margin: 60px 0 20px 0;
+}
+label{
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 10px;
+    color: #777;
+}
+input[type="text"]{
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 20px;
+    border: 2px solid #ddd;
+    border-radius: 3px;
+}
+.button-3{
+    color:#fff;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 11px;
+    background-color: #21364e;
+    border-style: none;
+    border-radius: 3px;
+}
+.button-3:hover{
+    color: #fff;
+    background: #444;
+}
+footer{
+    height: 260px;
+    background-color: #444;
+}
+footer h1{
+    color: #fff;
+    text-align: center;
+    padding-top: 80px;
+
+}
+.copyright
+    {
+        text-align: center;
+        font-weight: bold;
+        padding-top: 30px;
+        color: #777;
+    }
